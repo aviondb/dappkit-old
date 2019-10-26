@@ -1,0 +1,20 @@
+{
+  "name": "dappkit",
+  "version": "0.0.0",
+  "description": "A Toolkit for building, testing, deploying & analysing dapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:coverage": "codecov"
+  },
+  "keywords": [
+    "dapp",
+    "simpleaswater",
+    "web3.0"
+  ],
+  "author": "Vaibhav Saini (hi@simpleaswater.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
